@@ -14,7 +14,7 @@
 <p align="center">
     ## 𝘿𝙚𝙥𝙡𝙤𝙮 𝙡𝙚𝙬𝙖𝙩 𝙗𝙤𝙩 𝙨𝙖𝙢𝙗𝙞𝙡 𝙣𝙜𝙤𝙥𝙞 ☕
 
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=emlnYXoyMy9UYWctQWxsLU1lbWJlci1Hcm91cCBtYXN0ZXI"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=emlnYXoyMy9UYWdBbGwtTWVtYmVyLUdyb3VwIG1hc3Rlcg"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
 
 
 

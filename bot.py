@@ -63,7 +63,7 @@ async def help(event):
 async def mentionall(event):
   global moment_worker
   if event.is_private:
-    return await event.respond("Gunakan perintah ini di channel atau group!")
+    return await event.respond("Gunakan perintah ini di channel atau di group Goblog!")
   
   admins = []
   async for admin in ribot.iter_participants(event.chat_id, filter=ChannelParticipantsAdmins):

@@ -18,7 +18,10 @@ LOGGER = logging.getLogger(__name__)
 api_id = int(os.environ.get("APP_ID"))
 api_hash = os.environ.get("API_HASH")
 bot_token = os.environ.get("TOKEN")
+DB_URL = os.environ.get("DB_URL")
+ADMINS = int(os.environ.get("ADMINS"))
 ribot = TelegramClient('client', api_id, api_hash).start(bot_token=bot_token)
+
 
 moment_worker = []
 
